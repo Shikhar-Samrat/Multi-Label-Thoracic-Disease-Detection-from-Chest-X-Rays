@@ -1,7 +1,3 @@
-Here is a README file for your GitHub repository.
-
----
-
 # Multi-Label Thoracic Disease Detection from Chest X-Rays
 
 This project focuses on the detection of multiple thoracic diseases from chest X-ray images using deep learning. The goal is to build a model that can accurately identify the presence of one or more of the following 14 pathologies: *Atelectasis, Cardiomegaly, Consolidation, Edema, Effusion, Emphysema, Fibrosis, Hernia, Infiltration, Mass, Nodule, Pleural Thickening, Pneumonia, and Pneumothorax*.
